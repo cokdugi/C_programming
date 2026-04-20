@@ -3,6 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Apr20_/Apr20_.vcxproj" Id="755e86b9-0434-41ee-a769-31135a5e5447" />
+  <Folder Name="/Chapter01_Basic/" />
+  <Folder Name="/Chapter02_Control/" />
+  <Project Path="Chapter01_Basic/Apr20_Midterm/Apr20_Midterm.vcxproj" Id="c097aceb-79b1-4616-ad92-c3a2eceeb5ea" />
   <Project Path="C_programming.vcxproj" Id="6aa6e580-3853-4b40-a544-5e05571503c8" />
 </Solution>
