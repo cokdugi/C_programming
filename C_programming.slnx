@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Apr20_/Apr20_.vcxproj" Id="755e86b9-0434-41ee-a769-31135a5e5447" />
+  <Project Path="C_programming.vcxproj" Id="6aa6e580-3853-4b40-a544-5e05571503c8" />
+</Solution>
